@@ -1,0 +1,7 @@
+streamlit==1.31.0
+pdfminer.six==20231228
+python-docx==1.1.0
+python-pptx==0.6.23
+sumy==0.11.0
+nltk==3.8.1
+openai==0.28.1
